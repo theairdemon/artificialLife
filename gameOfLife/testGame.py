@@ -109,4 +109,4 @@ if __name__ == "__main__":
                      [' ',' ',' ',' ',' ',' ',' ',' '],
                      [' ',' ',' ',' ',' ',' ',' ',' ']]
 
-    playGame(gosper_glider_gun, duration = 300, num_wait = 0.05)
+    playGame(gosper_glider_gun, duration = 100, num_wait = 0.05)
